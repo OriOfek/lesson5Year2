@@ -26,9 +26,9 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="00px"
-            android:onClick="next"
+            android:onClick="per"
             android:layout_weight="1"
-            android:text="next screen" />
+            android:text="pervious" />
     </LinearLayout>
 
 </LinearLayout>
