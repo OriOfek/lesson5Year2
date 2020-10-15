@@ -5,7 +5,7 @@
     android:id="@+id/screen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".Activity2">
 
     <Space
         android:layout_width="0dp"

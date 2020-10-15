@@ -19,7 +19,7 @@ public class Activity2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_2);
         screen = (LinearLayout) findViewById(R.id.screen);
         array = new int[]{R.id.blue, R.id.white, R.id.red};
         colors = new int[]{Color.BLUE, Color.WHITE, Color.RED, Color.GREEN};
